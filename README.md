@@ -1,0 +1,2 @@
+# vedurfyrirledur
+Skrapa veðurathuganir
